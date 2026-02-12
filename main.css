@@ -300,3 +300,49 @@
     justify-content: center;
     margin-top: 70px ;
 }
+.section5{
+    width: 100%;
+    height: 100vh;
+    margin-top: 100px;
+}
+.insection5{
+    width: 90%;
+    margin: auto;
+}
+.pelegant{
+    font-size: 45px;
+    font-weight: 700;
+}
+.first2PartSec5{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.secondPartSec5{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.secondPartSec5-1{
+    width:48%;
+    margin: auto;
+}
+.pHotel{
+    font-size: 30px;
+    font-size: 700;
+    margin-top: 20px;
+}
+.pOwners{
+    font-size: 20px;
+    color: grey;
+    width: 65%;
+    margin-top: 20px;
+}
+.pRead{
+    font-weight: 700;
+    margin-top: 10px;
+}
