@@ -481,6 +481,8 @@
     background-color: #101C26;
     border: none;
     border-bottom: 1px solid grey;
+    color: white;
+    outline: none;
 }
 hr{
     margin-top: 20px;
