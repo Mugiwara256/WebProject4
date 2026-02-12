@@ -495,3 +495,56 @@ hr{
     border-radius: 40px;
     margin-top: 50px;
 }
+footer{
+    width: 100%;
+    height: 406px;
+    background-color: #101C26;
+}
+.infooter{
+    width: 90%;
+    height: 100% ;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.leftFooter{
+    height: 208px;
+    width: 329px;
+    /* background-color: #F0E714; */
+}
+.amet{
+    color: grey;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 20px;
+}
+.logos{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+.rightFooter{
+    height: 208px;
+    display: flex;
+    align-items: center;
+    gap: 200px;
+}
+.pUseful{
+    font-size: 25px;
+    color: white;
+    margin-bottom: 10px;
+}
+.pOneText{
+    color: grey;
+    font-size: 20px;
+    margin-top: 10px;
+    line-height: 1.3;
+}
+.hrEnd{
+    color: yellow;
+    width: 90%;
+    margin: auto;
+    margin-top: -50px;
+}
